@@ -7,5 +7,5 @@ tambahan= str(input("Masukkan pesanan yang ingin ditambahkan : "))
 if tambahan in daftar :
     print (tambahan.upper() , "sudah berada dalam daftar pesanan")
 else :
-    daftar.append(tambahan)
-    print ("Hasil penambahan pada daftar pesanan : " , daftar)
+    bur.append(tambahan)
+    print ("Hasil penambahan pada daftar pesanan : " , bur)
